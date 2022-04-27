@@ -3,7 +3,7 @@
     "description": "Custom Template Plugin",
     "version": "1.0.0",
     "author": "Vishal Pal",
-    "repository": "https://github.com/vishy312/monokle-pod-template.git",
+    "repository": "https://github.com/vishy312/monokle-pod-template",
     "monoklePlugin": {
         "modules": [
             {
