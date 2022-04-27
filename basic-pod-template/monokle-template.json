@@ -1,0 +1,23 @@
+{
+    "name": "Basic Pod Template",
+    "id": "com.github.vishy312.templates.basic-pod-template",
+    "description": "Creates a Pod with a Specified Image",
+    "version": "1.0.0",
+    "repository": "",
+    "type": "vanilla",
+    "forms": [
+        {
+            "name": "Pod Settings",
+            "description": "Specify Settings for Your Pod",
+            "schema": "form-schema.json",
+            "uischema": "form-ui-schema.json"
+        }
+    ],
+    "manifests": [
+        {
+            "filePath": "template.yaml"
+        }
+    ],
+    "resultMessage": "Your Pod is Created Successfully!",
+    "helpUrl": "https://github.com/vishy312/monokle-pod-template.git"
+}
